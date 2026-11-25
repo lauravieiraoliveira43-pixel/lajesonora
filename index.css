@@ -192,23 +192,23 @@
         font-size: 32px;
         margin-block: 8px 12px ;
     }
-    .rodape{
+    .rodape {
         margin-top: 120px;
         background-color: var(--tinta);
-        color: var(--concreto);.
+        color: var(--concreto);
         padding-block: 56px;
-
     }
-    .rodape-colunas{
+    
+    .rodape-colunas {
         display: flex;
         gap: 40px;
     }
-
-    .rodape-coluna{
+    
+    .rodape-coluna {
         flex: 1;
-
-    } 
-    .rodape h4{
+    }
+    
+    .rodape h4 {
         font-family: var(--fonte-cartaz);
         font-size: 28px;
         color: var(--fita);
