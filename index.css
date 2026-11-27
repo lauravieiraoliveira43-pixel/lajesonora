@@ -168,7 +168,9 @@
         border-top: 2px solid var(--concreto-escuro);
         font-weight: 600;
         font-size: 15px;
+        display: flex;
         justify-content: space-between;
+        align-items: center;
     }
     .passos{
         display: flex;
